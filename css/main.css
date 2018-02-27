@@ -1,8 +1,42 @@
-body {
-  text-align: center;
-
+#body {
+  margin: 0 auto;
+  background: linear-gradient(to top, #1F5167, #0D2235 75%) no-repeat fixed;
+  background-position: center;
+  color: #ffffff;
 }
 
 p {
   white-space: pre-wrap;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px 0 20px 0;
+}
+
+div {
+  text-align: center;
+  display: block;
+}
+
+#sign {
+  margin-right: 10px;
+}
+
+.divider {
+  overflow: hidden;
+  border-top: 1px solid #868e96;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+
+div.col-sm-4 {
+  padding: 100px;
+}
+
+#info {
+  width: 75%;
+  margin: 0 auto;
 }

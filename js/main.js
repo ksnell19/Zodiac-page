@@ -1,104 +1,157 @@
 var aquarius = {
   name: 'aquarius',
-  text: 'Strengths: Progressive, original, independent, humanitarian. \nWeaknesses: Runs from emotional expression, temperamental, uncompromising, aloof. \nAquarius likes: Fun with friends, helping others, fighting for causes, intellectual conversation, a good listener. \nAquarius dislikes: Limitations, broken promises, being lonely, dull or boring situations, people who disagree with them.',
-  img: 'http://www.astrology-zodiac-signs.com/images/aquarius.jpg'
+  date: 'January 20 - February 18',
+  element: 'Air sign',
+  text: 'STRENGTHS: Progressive, original, independent, humanitarian. \nWEAKNESSES: Runs from emotional expression, temperamental, uncompromising, aloof. \nLIKES: Fun with friends, helping others, fighting for causes, intellectual conversation, a good listener. \nDISLIKES: Limitations, broken promises, being lonely, dull or boring situations, people who disagree with them.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022008-3d-transparent-glass-icon-culture-astrology-aquarius.png'
 };
 
 var pisces = {
   name: 'pisces',
-  text: 'Strengths: Compassionate, artistic, intuitive, gentle, wise, musical. \nWeaknesses: Fearful, overly trusting, sad, desire to escape reality, can be a victim or a martyr. \nPisces likes: Being alone, sleeping, music, romance, visual media, swimming, spiritual themes. \nPisces dislikes: Know-it-all, being criticized, the past coming back to haunt, cruelty of any kind.',
-  img: 'http://www.astrology-zodiac-signs.com/images/pisces.jpg'
+  date: 'February 19 - March 20',
+  element: 'Water sign',
+  text: 'STRENGTHS: Compassionate, artistic, intuitive, gentle, wise, musical. \nWEAKNESSES: Fearful, overly trusting, sad, desire to escape reality, can be a victim or a martyr. \nLIKES: Being alone, sleeping, music, romance, visual media, swimming, spiritual themes. \nDISLIKES: Know-it-all, being criticized, the past coming back to haunt, cruelty of any kind.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022015-3d-transparent-glass-icon-culture-astrology-pisces.png'
 };
 
 var aries = {
   name: 'aries',
-  text: 'Strengths: Courageous, determined, confident, enthusiastic, optimistic, honest, passionate. \nWeaknesses: Impatient, moody, short-tempered, impulsive, aggressive. \nAries likes: Comfortable clothes, taking on leadership roles, physical challenges, individual sports. \nAries dislikes: Inactivity, delays, work that does not use their talents.',
-  img: 'http://www.astrology-zodiac-signs.com/images/aries.jpg'
+  date: 'March 21 - April 19',
+  element: 'Fire sign',
+  text: 'STRENGTHS: Courageous, determined, confident, enthusiastic, optimistic, honest, passionate. \nWEAKNESSES: Impatient, moody, short-tempered, impulsive, aggressive. \nLIKES: Comfortable clothes, taking on leadership roles, physical challenges, individual sports. \nDISLIKES: Inactivity, delays, work that does not use their talents.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022009-3d-transparent-glass-icon-culture-astrology-aries.png'
 };
 
 var taurus = {
   name: 'taurus',
-  text: 'Strengths: Reliable, patient, practical, devoted, responsible, stable. \nWeaknesses: Stubborn, possessive, uncompromising. \nTaurus likes: Gardening, cooking, music, romance, high quality clothes, working with hands.\nTaurus dislikes: Sudden changes, complications, insecurity of any kind, synthetic fabrics.',
-  img: 'http://www.astrology-zodiac-signs.com/images/taurus.jpg'
+  date: 'April 20 - May 20',
+  element: 'Earth sign',
+  text: 'STRENGTHS: Reliable, patient, practical, devoted, responsible, stable. \nWEAKNESSES: Stubborn, possessive, uncompromising. \nLIKES: Gardening, cooking, music, romance, high quality clothes, working with hands.\nDISLIKES: Sudden changes, complications, insecurity of any kind, synthetic fabrics.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022018-3d-transparent-glass-icon-culture-astrology-taurus.png'
 };
 var gemini = {
   name: 'gemini',
-  text: 'Strengths: Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas. \nWeaknesses: Nervous, inconsistent, indecisive. \nGemini likes: Music, books, magazines, chats with nearly anyone, short trips around the town. \nGemini dislikes: Being alone, being confined, repetition and routine.',
-  img: 'http://www.astrology-zodiac-signs.com/images/gemini.jpg'
+  date: 'May 21 - June 20',
+  element: 'Air sign',
+  text: 'STRENGTHS: Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas. \nWEAKNESSES: Nervous, inconsistent, indecisive. \nLIKES: Music, books, magazines, chats with nearly anyone, short trips around the town. \nDISLIKES: Being alone, being confined, repetition and routine.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022028-3d-transparent-glass-icon-culture-astrology1-gemini-sc37.png'
 };
 var cancer = {
   name: 'cancer',
-  text: 'Strengths: Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive. \nWeaknesses: Moody, pessimistic, suspicious, manipulative, insecure. \nCancer likes: Art, home-based hobbies, relaxing near or in water, helping loved ones, a good meal with friends. \nCancer dislikes: Strangers, any criticism of Mom, revealing of personal life.',
-  img: 'http://www.astrology-zodiac-signs.com/images/cancer.jpg'
+  date: 'June 21 - July 22',
+  element: 'Water sign',
+  text: 'STRENGTHS: Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive. \nWEAKNESSES: Moody, pessimistic, suspicious, manipulative, insecure. \nLIKES: Art, home-based hobbies, relaxing near or in water, helping loved ones, a good meal with friends. \nDISLIKES: Strangers, any criticism of Mom, revealing of personal life.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022010-3d-transparent-glass-icon-culture-astrology-cancer.png'
 };
 var leo = {
   name: 'leo',
-  text: 'Strengths: Creative, passionate, generous, warm-hearted, cheerful, humorous. \nWeaknesses: Arrogant, stubborn, self-centered, lazy, inflexible. \nLeo likes: Theater, taking holidays, being admired, expensive things, bright colors, fun with friends. \nLeo dislikes: Being ignored, facing difficult reality, not being treated like a king or queen.',
-  img: 'http://www.astrology-zodiac-signs.com/images/leo.jpg'
+  date: 'July 23 - August 22',
+  element: 'Fire sign',
+  text: 'STRENGTHS: Creative, passionate, generous, warm-hearted, cheerful, humorous. \nWEAKNESSES: Arrogant, stubborn, self-centered, lazy, inflexible. \nLIKES: Theater, taking holidays, being admired, expensive things, bright colors, fun with friends. \nDISLIKES: Being ignored, facing difficult reality, not being treated like a king or queen.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022013-3d-transparent-glass-icon-culture-astrology-leo.png'
 };
 var virgo = {
   name: 'virgo',
-  text: 'Strengths: Loyal, analytical, kind, hardworking, practical. \nWeaknesses: Shyness, worry, overly critical of self and others, all work and no play. \nVirgo likes: Animals, healthy food, books, nature, cleanliness. \nVirgo dislikes: Rudeness, asking for help, taking center stage.',
-  img: 'http://www.astrology-zodiac-signs.com/images/virgo.jpg'
+  date: 'August 23 - September 22',
+  element: 'Earth sign',
+  text: 'STRENGTHS: Loyal, analytical, kind, hardworking, practical. \nWEAKNESSES: Shyness, worry, overly critical of self and others, all work and no play. \nLIKES: Animals, healthy food, books, nature, cleanliness. \nDISLIKES: Rudeness, asking for help, taking center stage.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022019-3d-transparent-glass-icon-culture-astrology-virgo.png'
 };
 var libra = {
   name: 'libra',
-  text: 'Strengths: Cooperative,diplomatic, gracious, fair-minded, social. \nWeaknesses: Indecisive, avoids confrontations, will carry a grudge, self-pity. \nLibra likes: Harmony, gentleness, sharing with others, the outdoors.\nLibra dislikes: Violence, injustice, loudmouths, conformity.',
-  img: 'http://www.astrology-zodiac-signs.com/images/libra.jpg'
+  date: 'September 23 - October 22',
+  element: 'Air sign',
+  text: 'STRENGTHS: Cooperative,diplomatic, gracious, fair-minded, social. \nWEAKNESSES: Indecisive, avoids confrontations, will carry a grudge, self-pity. \nLIKES: Harmony, gentleness, sharing with others, the outdoors.\nDISLIKES: Violence, injustice, loudmouths, conformity.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022014-3d-transparent-glass-icon-culture-astrology-libra.png'
 };
 var scorpio = {
   name: 'scorpio',
-  text: 'Strengths: Resourceful, brave, passionate, stubborn, a true friend. \nWeaknesses: Distrusting, jealous, secretive, violent. \nScorpio likes: Truth, facts, being right, longtime friends, teasing, a grand passion. \nScorpio dislikes: Dishonesty, revealing secrets, passive people.',
-  img: 'http://www.astrology-zodiac-signs.com/images/scorpio.jpg'
+  date: 'October 23 - November 21',
+  element: 'Water sign',
+  text: 'STRENGTHS: Resourceful, brave, passionate, stubborn, a true friend. \nWEAKNESSES: Distrusting, jealous, secretive, violent. \nLIKES: Truth, facts, being right, longtime friends, teasing, a grand passion. \nDISLIKES: Dishonesty, revealing secrets, passive people.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022017-3d-transparent-glass-icon-culture-astrology-scorpio.png'
 };
 var sagittarius = {
   name: 'sagittarius',
-  text: 'Strengths: Generous, idealistic, great sense of humor. \nWeaknesses: Promises more than can deliver, very impatient, will say anything no matter how undiplomatic. \nSagittarius likes: Freedom, travel, philosophy, being outdoors. \nSagittarius dislikes: Clingy people, being constrained, off-the-wall theories, details.',
-  img: 'http://www.astrology-zodiac-signs.com/images/sagittarius.jpg'
+  date: 'November 22 - December 21',
+  element: 'Fire sign',
+  text: 'STRENGTHS: Generous, idealistic, great sense of humor. \nWEAKNESSES: Promises more than can deliver, very impatient, will say anything no matter how undiplomatic. \nLIKES: Freedom, travel, philosophy, being outdoors. \nDISLIKES: Clingy people, being constrained, off-the-wall theories, details.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022016-3d-transparent-glass-icon-culture-astrology-sagittarius.png'
 };
 var capricorn = {
   name: 'capricorn',
-  text: 'Strengths: Responsible, disciplined, self-control, good managers. \nWeaknesses: Know-it-all, unforgiving, condescending, expecting the worst. \nCapricorn likes: Family, tradition, music, understated status, quality craftsmanship. \nCapricorn dislikes: Almost everything at some point.',
-  img: 'http://www.astrology-zodiac-signs.com/images/capricorn.jpg'
+  date: 'December 22 - January 19',
+  element: 'Earth sign',
+  text: 'STRENGTHS: Responsible, disciplined, self-control, good managers. \nWEAKNESSES: Know-it-all, unforgiving, condescending, expecting the worst. \nLIKES: Family, tradition, music, understated status, quality craftsmanship. \nDISLIKES: Almost everything at some point.',
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022011-3d-transparent-glass-icon-culture-astrology-capricorn.png'
 };
 
 
 //array of objects
 var zodiac = [aquarius, pisces, aries, taurus, gemini, cancer, leo, virgo, libra, scorpio, sagittarius, capricorn];
 
-//create img title for each object and display on the html
-for(var i=0; i<zodiac.length; i++) {
-  var img = document.createElement('img');
-  var p = document.createElement('p');
+//write the click function first
+function showSign(){
+//remove whats in div in first place. (Why is there something there?)
+document.getElementById('zodiac-sign').innerHTML= '' ;
 
-  img.src= zodiac[i].img;
-  p.textContent = zodiac[i].text;
+   //grab the input
+   var userInput = document.getElementById('sign').value;
+   console.log(userInput);
 
-  var div= document.createElement('div');
-  div.appendChild(img);
-  div.appendChild(p);
-  //show on screen
-  //attach our dynamically generated elements to our html
-  var body = document.querySelector('body');
-  body.appendChild(div);
+ //match input to one of our objects
+ //loop through and return a match
+ for(var i=0; i<zodiac.length; i++) {
+   if(userInput.toLowerCase() === zodiac[i].name) { //do we have a match?
 
-  //play
-   function showSign(){
-     //grab the input
-     var sign = document.getElementById('showSign').value;
-     console.log(sign);
-     //when the page is ready, do this.
-     $(document).ready(function() {
-       //when button is clicked do this
-        $("#my-btn").click(function() {
-        $(".zodiac").fadeIn();
+   var img = document.createElement('img');
+   var head = document.createElement('h4');
+   var elements= document.createElement('h5');
+   var p = document.createElement('p');
+   var div = document.createElement('div');
 
-     if(zodiac.length.trim === 0) {
-       console.log(zodiac);
-     };
+   //created elements with the zodiac info
+   img.src= zodiac[i].img;
+   head.textContent = zodiac[i].date;
+   elements.textContent = zodiac[i].element;
+   p.textContent = zodiac[i].text;
 
-     //erase the input
-     document.getElementById('text').value ="";
+   //add image and p to our div
+   div.appendChild(img);
+   div.appendChild(head);
+   div.appendChild(elements);
+   div.appendChild(p);
 
- });
-})
+   //display to user
+   var zodiacSign = document.getElementById('zodiac-sign');
+   zodiacSign.appendChild(div);
+    }
+  }
+}
+
+  //  //when the page is ready, do this.
+  //  $(document).ready(function() {
+  //    //when button is clicked do this
+  //    $("#my-btn").click(function() {
+  //    $(".zodiac").fadeIn();
+  //
+  //
+  //
+  // var div= document.createElement('div');
+  // div.appendChild(img);
+  // div.appendChild(p);
+  // //show on screen
+  // //attach our dynamically generated elements to our html
+  // var body = document.querySelector('body');
+  // body.appendChild(div);
+
+  // //play
+  // function showSign(){
+  //    //grab the input
+  //    var sign = document.getElementById('sign').value;
+  //    console.log(sign);
+  //    //when the page is ready, do this.
+  //    $(document).ready(function() {
+  //      //when button is clicked do this
+  //      $("#my-btn").click(function() {
+  //      $(".zodiac").fadeIn();
