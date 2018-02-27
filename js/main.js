@@ -61,7 +61,7 @@ var libra = {
   name: 'libra',
   date: 'September 23 - October 22',
   element: 'Air sign',
-  text: 'STRENGTHS: Cooperative,diplomatic, gracious, fair-minded, social. \nWEAKNESSES: Indecisive, avoids confrontations, will carry a grudge, self-pity. \nLIKES: Harmony, gentleness, sharing with others, the outdoors.\nDISLIKES: Violence, injustice, loudmouths, conformity.',
+  text: 'STRENGTHS: Cooperative, diplomatic, gracious, fair-minded, social. \nWEAKNESSES: Indecisive, avoids confrontations, will carry a grudge, self-pity. \nLIKES: Harmony, gentleness, sharing with others, the outdoors.\nDISLIKES: Violence, injustice, loudmouths, conformity.',
   img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022014-3d-transparent-glass-icon-culture-astrology-libra.png'
 };
 var scorpio = {
@@ -129,27 +129,9 @@ document.getElementById('zodiac-sign').innerHTML= '' ;
   }
 }
 
-  //  //when the page is ready, do this.
-  //  $(document).ready(function() {
-  //    //when button is clicked do this
-  //    $("#my-btn").click(function() {
-  //    $(".zodiac").fadeIn();
-  //
-  //
-  //
-  // var div= document.createElement('div');
-  // div.appendChild(img);
-  // div.appendChild(p);
-  // //show on screen
-  // //attach our dynamically generated elements to our html
-  // var body = document.querySelector('body');
-  // body.appendChild(div);
 
-  // //play
-  // function showSign(){
-  //    //grab the input
-  //    var sign = document.getElementById('sign').value;
-  //    console.log(sign);
+
+
   //    //when the page is ready, do this.
   //    $(document).ready(function() {
   //      //when button is clicked do this
