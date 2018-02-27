@@ -34,7 +34,7 @@ var gemini = {
   date: 'May 21 - June 20',
   element: 'Air sign',
   text: 'STRENGTHS: Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas. \nWEAKNESSES: Nervous, inconsistent, indecisive. \nLIKES: Music, books, magazines, chats with nearly anyone, short trips around the town. \nDISLIKES: Being alone, being confined, repetition and routine.',
-  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022028-3d-transparent-glass-icon-culture-astrology1-gemini-sc37.png'
+  img: 'http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-culture/022012-3d-transparent-glass-icon-culture-astrology-gemini.png'
 };
 var cancer = {
   name: 'cancer',
