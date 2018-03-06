@@ -108,6 +108,7 @@ document.getElementById('zodiac-sign').innerHTML= '' ;
    var head = document.createElement('h4');
    var elements= document.createElement('h5');
    var p = document.createElement('p');
+   p.setAttribute('style', 'width: 600px; margin: 0 auto; padding: 30px; border: 1px solid #868e96; border-radius: 10px; text-align: left');
    var div = document.createElement('div');
 
    //created elements with the zodiac info
@@ -121,6 +122,7 @@ document.getElementById('zodiac-sign').innerHTML= '' ;
    div.appendChild(head);
    div.appendChild(elements);
    div.appendChild(p);
+
 
    //display to user
    var zodiacSign = document.getElementById('zodiac-sign');
