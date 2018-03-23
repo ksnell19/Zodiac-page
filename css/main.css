@@ -52,4 +52,8 @@ p {
       width: 100% !important;
       padding: 20px !important;
     }
+    img {
+      width: 50%;
+      height: 50%;
+    }
 }
