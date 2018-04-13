@@ -132,7 +132,6 @@ document.getElementById('zodiac-sign').innerHTML= '' ;
 
 
 
-
   //    //when the page is ready, do this.
   //    $(document).ready(function() {
   //      //when button is clicked do this
