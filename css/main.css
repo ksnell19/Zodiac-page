@@ -7,6 +7,7 @@
 
 img {
   width: 25%;
+  height: auto;
 }
 
 h1 {
@@ -32,9 +33,6 @@ p {
   overflow: hidden;
   border-top: 1px solid #868e96;
   margin-top: 25px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 1200px;
 }
 
 #info {
@@ -42,15 +40,20 @@ p {
   margin: 0 auto;
 }
 
+#zodiac-sign {
+  margin-bottom: 50px;
+}
+
 
 @media only screen and (max-width: 700px) {
   img {
-    width: 30%;
+    width: 250px;
+    height: auto;
   }
 }
 @media only screen and (max-width: 600px) {
     h1 {
-      font-size: 30px !important;
+      font-size: 28px !important;
     }
     p {
       font-size: 14px;
@@ -58,11 +61,10 @@ p {
       padding: 20px !important;
     }
     img {
-      width: 60%;
+      width: 250px;
+      height: auto;
     }
-}
-@media only screen and (max-width: 355px) {
-  #my-btn {
-    margin-top: 10px;
-  }
+    #sign {
+      width: 50%;
+    }
 }
